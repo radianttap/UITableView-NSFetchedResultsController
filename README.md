@@ -1,3 +1,8 @@
+---
+> Note: this is abandoned. 
+> I don‘t recommend to use it in any new projects.
+---
+
 # `UITableView+NSFetchedResultsController`
 
 This is an example of how to use the `UITableView` with `NSFetchedResultsController` with the least hassle. The code is based on the [investigation and hard work](http://www.fruitstandsoftware.com/blog/2013/02/19/uitableview-and-nsfetchedresultscontroller-updates-done-right/) of Michael Fey; you can also see this [gist](https://gist.github.com/MrRooni/4988922).
